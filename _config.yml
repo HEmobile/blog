@@ -1,16 +1,16 @@
 title: Blog do Time
-author: Time HE:labs
+author: Time HE:mobile
 pygments: true
 permalink: /:year/:month/:day/:title/
 markdown: rdiscount
 paginate: 9
 paginate_path: "/page/:num"
-disqus_url: "http://helabs.com.br/blog"
+disqus_url: "http://hemobile.com.br/blog"
 disqus_short_name: helabsblog
 disqus_show_comment_count: true
-google_analytics_tracking_id: UA-34924553-1
+google_analytics_tracking_id:
 # Github repositories
-github_user: Helabs
+github_user: HEmobile
 github_repo_count: 4
 github_show_profile_link: true
 github_skip_forks: true
@@ -18,7 +18,7 @@ github_skip_forks: true
 baseurl:     /blog
 
 # Twitter
-twitter_user: helabs
+twitter_user: hemobile
 excerpt_separator: <!--more-->
 exclude:
   - unicorn.rb
