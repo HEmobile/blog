@@ -2,13 +2,7 @@
 
 1) Clone o repositório [git@github.com:Helabs/blog.git](https://github.com/Helabs/blog) e tenha certeza de que está no branch `gh-pages`.
 
-2) Crie uma branch com o título do seu post.
-
-```
-$ git checkout -b post/titulo-do-seu-post
-```
-
-3) Crie um arquivo em `_posts/titulo-do-seu-post.markdown` com o seguinte formato.
+2) Crie um arquivo em `_drafts/titulo-do-seu-post.markdown` com o seguinte formato.
 
 ```
 ---
@@ -26,26 +20,20 @@ categories:
 Conteúdo do post
 ```
 
-4) Veja se ficou bom executando o projeto e acessando pelo browser o endereço [http://localhost:4000/blog/](http://localhost:4000/blog/) (Precisa de "/" no final do endereço).
+3) Veja se ficou bom executando o projeto com --drafts e acessando pelo browser o endereço [http://localhost:4000/blog/](http://localhost:4000/blog/) (Precisa de "/" no final do endereço).
 
-```
-$ foreman start
-```
-
-5) Commit as mudanças.
+4) Commit as mudanças.
 
 ```
 $ git add .
 $ git commit -am 'post: Titulo do seu post'
 ```
 
-6) Push na branch.
+5) Push na branch.
 
 ```
-$ git push origin post/titulo-do-seu-post
+$ git push origin gh-pages
 ```
-
-7) Mande um pull request pela interface web do Github.
 
 ## Publicando um post
 
