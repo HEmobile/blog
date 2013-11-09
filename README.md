@@ -1,6 +1,6 @@
-# HE:labs Blog
+# HE:mobile Blog
 
-This is the HE:labs Blog code, you can see the live blog on http://helabs.com.br/blog/.
+This is the HE:mobile Blog code, you can see the live blog on http://hemobile.com.br/blog/.
 
 ## Dependencies
 
@@ -13,7 +13,7 @@ To run this project you need to have:
 1. Install the depedencies above
 2. Clone the project
 
-        $ git clone git@github.com:Helabs/blog.git
+        $ git clone git@github.com:hemobile/blog.git
 
 3. Go into the project folder
 
@@ -39,7 +39,7 @@ If everything goes OK, you can now run the project!
 
         $ rake 'new_post["Title of the post"]'
 
-1. Write your post and **make sure the author link on the post points to your profile on HE:labs website**.
+1. Write your post and **make sure the author link on the post points to your profile on HE:mobile website**.
 1. Commit your changes.
 
         $ git add .
@@ -119,17 +119,12 @@ rake fix_author_links
 
 Then double check if the posts were changed correctly, `git commit` and `git push` the changes back to the `gh-pages` branch.
 
-## Maintainers
+## Made with love by HE:mobile
 
-- [Bia](https://github.com/beatrizcp87)
-- [Fábio Rehm](https://github.com/fgrehm)
+![HE:mobile](http://hemobile.com.br/images/logo-hemobile.jpg)
 
-## Made with love by HE:labs
-
-![HE:labs](http://helabs.com.br/images/logo.png)
-
-This app was created and is maintained by [HE:labs](https://github.com/Helabs).
+This app was created and is maintained by [HE:mobile](https://github.com/hemobile).
 
 ## LICENSE
 
-[Blog of HE:labs](http://helabs.com.br/blog/) and its content is licensed under an [Attribution-NonCommercial-ShareAlike 3.0 Unported license](http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode).
+[HE:mobile blog](http://hemobile.com.br/blog/) and its content is licensed under an [Attribution-NonCommercial-ShareAlike 3.0 Unported license](http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode).
