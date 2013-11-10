@@ -17,9 +17,10 @@ categories:
 
 Se você é associado a algum <a href="https://developer.apple.com" target="_blank">programa de desenvolvedor da Apple</a>, e possui recebimentos monetário pelos seus apps (eles podem ser pagos ou conter <a href="https://developer.apple.com/in-app-purchase/" target="_blank">compras in-app</a>), deve ter percebido a seguinte mensagem de alerta no seu <a href="https://itunesconnect.apple.com" target="_blank">iTunes Connect</a>:
 <p style="text-align: center;"><span style="color: #ff0000;">Our records indicate that your banking information is incomplete. Please access your banking information and update as necessary.</span></p>
-Esta mensagem passou a aparecer há alguns dias pois a Apple atualizou seu formulário de informações bancárias, solicitando o preenchimento de mais um campo: o <strong>IBAN</strong>.
 
 <!--more-->
+
+Esta mensagem passou a aparecer há alguns dias pois a Apple atualizou seu formulário de informações bancárias, solicitando o preenchimento de mais um campo: o <strong>IBAN</strong>.
 
 ## O que é o IBAN
 O IBAN nada mais é do que o <strong>identificador único internacional da sua conta bancária</strong>. Ele serve para facilitar o envio e recebimento de dinheiro entre países, já que, com ele, vários processos podem ser automatizados. Ele tem o mesmo propósito do código SWIFT (ou BIC), que já é usado no Brasil.
