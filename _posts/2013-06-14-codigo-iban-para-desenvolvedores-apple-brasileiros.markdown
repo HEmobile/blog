@@ -45,4 +45,3 @@ Se o seu banco não sabe informar o seu IBAN, e você estiver com vontade de atu
 
 
 Se ainda tiver alguma dúvida, não deixe perguntar!
-<p style="text-align: right;"><em>Crédito da foto: <a href="http://www.flickr.com/photos/cmogle/3277332588/" target="_blank">Conor Ogle</a> - Glassworks </em></p>
