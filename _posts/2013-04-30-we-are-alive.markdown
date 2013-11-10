@@ -1,37 +1,19 @@
 ---
-layout: post
-title: We are Alive!
-categories:
-- Blog
-tags:
-- Entrepreneurship
-- iOS
-- Learning
-- Partnership
-- Startup
-status: publish
-type: post
 published: true
-meta:
-  _edit_last: '6'
-  _et_nimble_settings: a:1:{s:14:"et_is_featured";i:0;}
-  _wp_old_slug: hello-world
-  _yoast_wpseo_focuskw: ''
-  _yoast_wpseo_title: ''
-  _yoast_wpseo_metadesc: ''
-  _yoast_wpseo_meta-robots-noindex: '0'
-  _yoast_wpseo_meta-robots-nofollow: '0'
-  _yoast_wpseo_meta-robots-adv: none
-  _yoast_wpseo_sitemap-include: '-'
-  _yoast_wpseo_sitemap-prio: '-'
-  _yoast_wpseo_canonical: ''
-  _yoast_wpseo_redirect: ''
-  _yoast_wpseo_opengraph-description: ''
-  _yoast_wpseo_google-plus-description: ''
-  _translations: a:2:{s:2:"br";i:127;s:2:"en";i:1;}
-  _thumbnail_id: '447'
-  _yoast_wpseo_linkdex: '0'
+layout: post
+title: "We are Alive!"
+date: 2013-04-30 16:30
+comments: true
+categories:
+  - Felloway
+  - HEmobile
+  - Entrepreneurship
+  - iOS
+  - Learning
+  - Partnership
+  - Startup
 ---
+
 <strong>We are alive! Finally!</strong>
 
 We had that feeling, that urge to start something of our own for a long, long time. But life, with all its ‘problems’, gave us all the ‘fake’ excuses we needed to postpone it.

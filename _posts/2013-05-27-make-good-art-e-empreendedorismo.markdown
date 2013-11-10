@@ -1,28 +1,23 @@
 ---
-layout: post
-title: “Make Good Art” e Empreendedorismo
-categories:
-- Blog
-tags:
-- Aprendizado
-- Arte
-- Desenvolvimento de Produto
-- Empreendedorismo
-- Escrever
-- Inspiração
-- iOS
-- Marketing
-- Startup
-status: publish
-type: post
 published: true
-meta:
-  _thumbnail_id: '724'
-  _yoast_wpseo_linkdex: '0'
-  _edit_last: '2'
-  _translations: a:2:{s:2:"br";i:726;s:2:"en";i:723;}
-  _et_nimble_settings: a:1:{s:14:"et_is_featured";i:0;}
+author: Roberto Morais
+layout: post
+title: '"Make Good Art" e Empreendedorismo'
+date: 2013-05-27 16:30
+comments: true
+categories:
+  - Roberto Morais
+  - Aprendizado 
+  - Arte
+  - Desenvolvimento de Produto
+  - Empreendedorismo
+  - Escrever
+  - Inspiração
+  - iOS
+  - Marketing
+  - Startup
 ---
+
 Eu sou um grande fã de Neil Gaiman, e raramente ouço ou leio alguma coisa dele que não me fascine. Inclusive escrevi um roteiro de curta-metragem inspirado por um de seus contos. Agora estou em uma nova aventura, uma que eu realmente não esperava qualquer ajuda dele, até que me deparei com seu <a title="Gaiman's Speech" href="http://www.youtube.com/watch?v=plWexCID-kA" target="_blank">discurso de formatura</a>, “Make Good Art”. Ele novamente me inspirou, e como tenho um blog agora, tinha que escrever sobre isso.
 
 <!--more-->

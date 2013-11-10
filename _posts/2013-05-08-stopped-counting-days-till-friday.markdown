@@ -1,22 +1,17 @@
 ---
-layout: post
-title: How I Stopped Counting Days Till Friday
-categories:
-- Blog
-tags:
-- Entrepreneurship
-- Life Style
-- Startup
-status: publish
-type: post
 published: true
-meta:
-  _yoast_wpseo_linkdex: '0'
-  _edit_last: '6'
-  _translations: a:2:{s:2:"en";i:473;s:2:"br";i:477;}
-  _thumbnail_id: '486'
-  _et_nimble_settings: a:1:{s:14:"et_is_featured";i:0;}
+author: Roberto Morais
+layout: post
+title: "How I Stopped Counting Days Till Friday"
+date: 2013-05-08 16:30
+comments: true
+categories:
+  - Roberto Morais
+  - Entrepreneurship
+  - Life Style
+  - Startup
 ---
+
 After we finished to organize our office and some bureaucratic needs, Felloway completed in March its first month of productive working, I mean developing our first iPad app <a title="MixPrintPaint" href="http://mixprintpaint.felloway.com" target="_blank">MixPrintPaint</a>. We have been working hard to ship it, so we will finally feel that we are for real.
 
 <!--more-->

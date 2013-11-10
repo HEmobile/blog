@@ -1,23 +1,18 @@
 ---
-layout: post
-title: The Struggle of iOS Marketing for an Indie
-categories:
-- Blog
-tags:
-- iOS
-- Marketing
-- Product Development
-- Startup
-status: publish
-type: post
 published: true
-meta:
-  _yoast_wpseo_linkdex: '0'
-  _edit_last: '2'
-  _translations: a:2:{s:2:"br";i:578;s:2:"en";i:574;}
-  _et_nimble_settings: a:1:{s:14:"et_is_featured";i:0;}
-  _thumbnail_id: '571'
+author: Roberto Morais
+layout: post
+title: "The Struggle of iOS Marketing for an Indie"
+date: 2013-05-13 16:30
+comments: true
+categories:
+  - Roberto Morais
+  - iOS
+  - Marketing
+  - Product Development
+  - Startup
 ---
+
 I think that everyone who tried to sell an iPhone or iPad app realized that to be found on the AppStore is a nightmare. It is really hard to find anything different than the top players or the featured items around there.
 
 <!--more-->

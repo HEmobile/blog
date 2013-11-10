@@ -2,7 +2,7 @@
 published: true
 author: Raphael Ozawa
 layout: post
-title: Será Que The Last Of Us Está Roubando Uma PI?
+title: "Será Que The Last Of Us Está Roubando Uma PI?"
 date: 2013-06-07 16:30
 comments: true
 categories:

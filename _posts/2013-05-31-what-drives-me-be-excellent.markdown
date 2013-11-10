@@ -1,25 +1,20 @@
 ---
-layout: post
-title: 'What Drives Me: Be Excellent!'
-categories:
-- Blog
-tags:
-- Entrepreneurship
-- Feedback
-- Inspiration
-- Learning
-- Life Style
-- Motivation
-status: publish
-type: post
 published: true
-meta:
-  _translations: a:2:{s:2:"br";i:762;s:2:"en";i:760;}
-  _edit_last: '2'
-  _yoast_wpseo_linkdex: '0'
-  _et_nimble_settings: a:1:{s:14:"et_is_featured";i:0;}
-  _thumbnail_id: '768'
+author: Rafael Miranda
+layout: post
+title: "What Drives Me: Be Excellent!"
+date: 2013-05-31 16:30
+comments: true
+categories:
+  - Rafael Miranda
+  - Entrepreneurship
+  - Feedback
+  - Inspiration
+  - Learning
+  - Life Style
+  - Motivation
 ---
+
 Recently, some people on my day job told me they are embarrassed because I study so much and they don't. They said they admire my passion for studying agile, modern management, coaching, modern software engineering, entrepreneurship, lean startup, etc. They recognize the importance of continuous improvement, expand horizons and strive for excellence in what they do. However, they told me they can't do that. And were embarrassed about that.
 
 <!--more-->

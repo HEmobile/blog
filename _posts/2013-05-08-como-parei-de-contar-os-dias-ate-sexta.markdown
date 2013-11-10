@@ -1,22 +1,17 @@
 ---
-layout: post
-title: Como Parei de Contar os Dias até Sexta
-categories:
-- Blog
-tags:
-- Empreendedorismo
-- Estilo de Vida
-- Startup
-status: publish
-type: post
 published: true
-meta:
-  _et_nimble_settings: a:1:{s:14:"et_is_featured";i:0;}
-  _edit_last: '6'
-  _yoast_wpseo_linkdex: '0'
-  _thumbnail_id: '486'
-  _translations: a:2:{s:2:"en";i:473;s:2:"br";i:477;}
+author: Roberto Morais
+layout: post
+title: "Como Parei de Contar os Dias até Sexta"
+date: 2013-05-08 16:30
+comments: true
+categories:
+  - Roberto Morais
+  - Empreendedorismo
+  - Estilo de Vida
+  - Startup
 ---
+
 Após terminarmos de montar o nosso escritório e outras necessidades burocráticas, a Felloway completou em março seu primeiro mês de trabalho real, desenvolver nosso primeiro aplicativo para iPad, <a title="MixPrintPaint" href="http://mixprintpaint.felloway.com/br/" target="_blank">MixPrintPaint</a>. Trabalhamos muito nele, para terminar e finalmente podermos sentir que existimos de verdade.
 
 <!--more-->
