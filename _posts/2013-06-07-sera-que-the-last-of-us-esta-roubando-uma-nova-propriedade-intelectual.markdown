@@ -1,27 +1,22 @@
 ---
+published: true
+author: Raphael Ozawa
 layout: post
 title: Será Que The Last Of Us Está Roubando Uma PI?
+date: 2013-06-07 16:30
+comments: true
 categories:
-- Blog
-tags:
-- Arte
-- Direitos
-- Filmes
-- Jogos
-- Leis
-- Pirataria
-- Plágio
-- Propriedade Intelectual
-status: publish
-type: post
-published: true
-meta:
-  _thumbnail_id: '795'
-  _yoast_wpseo_linkdex: '0'
-  _edit_last: '2'
-  _translations: a:2:{s:2:"br";i:799;s:2:"en";i:794;}
-  _et_nimble_settings: a:1:{s:14:"et_is_featured";i:0;}
+  - Raphael Ozawa
+  - Arte
+  - Direitos
+  - Filmes
+  - Jogos
+  - Leis
+  - Pirataria
+  - Plágio
+  - Propriedade Intelectual
 ---
+
 Ontem acabou-se o embargo que impedia a imprensa de resenhar um dos jogos mais aguardados do ano: The Las of Us para PlayStation 3. Ao redor do mundo os maiores sites de games estão elogiando e dando altas notas. Enquanto eu assistia uma resenha em vídeo, um pensamento que já havia sumido há algum tempo — desde os trailers do ano passado — voltou: a impressionante semelhança entre a personagem protagonista <a href="https://www.google.com.br/search?q=the+last+of+us+ellie&amp;biw=1440&amp;bih=822&amp;tbm=isch&amp;tbo=u&amp;source=univ&amp;sa=X&amp;ei=WcWvUbbeIpXH4APLxIHQCQ&amp;sqi=2&amp;ved=0CCoQsAQ">Ellie</a> e a atriz <a href="https://twitter.com/EllenPage">Ellen (Page)</a>. Tive que fazer uma rápida pesquisa para ver se Ellen Page participou da produção do jogo. Já revelo logo: não participou. Não sei se foi cópia intencional, uma homenagem, ou pura coincidência. Esse não é o ponto. O que isto traz à minha mente é: trejeitos e aparências são Propriedade Intelectual?
 
 <!--more-->
