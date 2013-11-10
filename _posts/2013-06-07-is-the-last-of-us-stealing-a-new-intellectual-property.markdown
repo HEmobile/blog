@@ -1,27 +1,22 @@
 ---
+published: true
+author: Raphael Ozawa
 layout: post
 title: Is The Last Of Us Stealing A New IP?
+date: 2013-06-07 16:30
+comments: true
 categories:
-- Blog
-tags:
-- Art
-- Films
-- Games
-- Intellectual Property
-- Laws
-- Piracy
-- Plagiarism
-- Rights
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '2'
-  _yoast_wpseo_linkdex: '0'
-  _translations: a:2:{s:2:"br";i:799;s:2:"en";i:794;}
-  _thumbnail_id: '795'
-  _et_nimble_settings: a:1:{s:14:"et_is_featured";i:0;}
+  - Raphael Ozawa
+  - Art
+  - Films
+  - Games
+  - Intellectual Property
+  - Laws
+  - Piracy
+  - Plagiarism
+  - Rights
 ---
+
 Yesterday was lifted the embargo for the press to review one of the most anticipated games of the year: The Last of Us for PlayStation 3. All over the world major game sites are giving it high scores and praise. Watching the video reviews, one thought long gone in my mind—since last year trailers—returned: the staggering resemblance of the protagonist character Ellie and the actress Ellen (Page). I had to do a quick research to see if Ellen Page was in the game. Spoiler: she is not. I don't know if it was an intentional copy, a homage or pure coincidence. That's not the point. What it brings to my mind is: are appearance and mannerism Intellectual Property?
 
 <!--more-->

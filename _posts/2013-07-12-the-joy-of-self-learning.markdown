@@ -2,7 +2,7 @@
 published: true
 author: Roberto Morais
 layout: post
-title: "The Joy of Self-Learning"
+title: The Joy of Self-Learning
 date: 2013-07-12 16:30
 comments: true
 categories:

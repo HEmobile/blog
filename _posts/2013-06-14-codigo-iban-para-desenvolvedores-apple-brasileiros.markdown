@@ -2,7 +2,7 @@
 published: true
 author: Rafael Miranda
 layout: post
-title: "IBAN para devs Apple brasileiros"
+title: IBAN para devs Apple brasileiros
 date: 2013-06-14 16:30
 comments: true
 categories:
