@@ -1,26 +1,23 @@
 ---
-layout: post
-title: The Joy of Self-Learning
-categories:
-- Blog
-tags:
-- Inspiration
-- Learning
-- Life Style
-- Motivation
-status: publish
-type: post
 published: true
-meta:
-  _translations: a:2:{s:2:"en";i:907;s:2:"br";i:0;}
-  _edit_last: '4'
-  _yoast_wpseo_linkdex: '0'
-  _et_nimble_settings: a:1:{s:14:"et_is_featured";i:0;}
-  _thumbnail_id: '914'
+author: Roberto Morais
+layout: post
+title: "The Joy of Self-Learning"
+date: 2013-07-12 16:30
+comments: true
+categories:
+  - Roberto Morais
+  - Inspiration
+  - Learning
+  - Life Style
+  - Motivation
 ---
+
 I always thought about myself as a fast learner, but at the same time I was only learning what life brought to me. Starting from college, that I didn’t quite choose what I wanted but what I thought would fit me better and give me a good job. After that I was learning as my job demanded… Delphi, Java, PHP, more Java and so on.
 
 I was learning because it was required and not because <strong>I wanted to learn something</strong>.
+
+<!--more-->
 
 The change started about 2-3 years ago, when I was living in Dublin with few friends and a lot o free time. I realized that besides having a good job and some life experiences, I wasn’t happy with myself. Something was missing and I started to look actively for it. My first decision was to find a better use of my free time and learn something by myself. The time passed, some failures and successes with it, but now I am pretty confident to learn new things when I need or want.And that is great!
 
@@ -46,5 +43,3 @@ The internet is full of e-courses and you can always start with a book if you pr
 I had great experiences with self-learning and I can’t recommend it enough. It is amazing to be able to learn at your own rhythm and to be the only one responsible for your learning. It is a great way to improve your self-knowledge. When compared with the usual education I only missed the direct contact with people and to be able to have my questions answered in real time. Probably even that can be done nowadays with the right e-course.
 
 Nobody can help you all the way, but it is well worth it.
-
-<p style="text-align: right;"><em>Photo Copyright: <a title="copyright" href="http://www.flickr.com/photos/venoasdale/7051065819/">Krissy.Venosdale</a></em></p>
