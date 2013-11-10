@@ -3,7 +3,7 @@ published: true
 author: Rafael Miranda
 layout: post
 title: "IBAN para devs Apple brasileiros"
-date: 2013-10-10 16:30
+date: 2013-06-14 16:30
 comments: true
 categories:
   - Rafael Miranda
@@ -26,7 +26,7 @@ O IBAN nada mais é do que o <strong>identificador único internacional da sua c
 
 Em fevereiro de 2013 o Banco Central publicou uma Circular contendo <a href="http://www.bcb.gov.br/htms/novaPaginaSPB/IBAN-Guidelines_%20port.pdf" target="_blank">Diretrizes para Implementação do IBAN no Brasil</a>. Ela estabelece, dentre outras coisas, que o IBAN passará a ser utilizado formalmente no Brasil a partir do dia <strong>01/07/2013</strong>. Veja abaixo o trecho do documento:
 
-<img class="wp-image-810 aligncenter" alt="TrechoCircularBC-IBAN" src="http://felloway.com/wp-content/uploads/2013/06/Captura_de_tela_14_06_13_21_00.png" width="762" height="333" />
+![image](/blog/images/posts/2013-06-14/Captura_de_tela_14_06_13_21_00-1024x446.png)
 
 ## Flexibilidade temporária da Apple quanto ao IBAN
 Como o nosso aplicativo <a href="http://mixprintpaint.felloway.com" target="_blank">MixPrintPaint</a> gera receitas, temos que atualizar os nossos dados bancários. Porém, não está sendo fácil! :)
