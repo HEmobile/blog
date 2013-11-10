@@ -1,25 +1,20 @@
 ---
-layout: post
-title: 'O Que Me Move: Ser Excelente!'
-categories:
-- Blog
-tags:
-- Aprendizado
-- Empreendedorismo
-- Estilo de Vida
-- Feedback
-- Inspiração
-- Motivação
-status: publish
-type: post
 published: true
-meta:
-  _yoast_wpseo_linkdex: '0'
-  _edit_last: '2'
-  _translations: a:2:{s:2:"br";i:762;s:2:"en";i:760;}
-  _et_nimble_settings: a:1:{s:14:"et_is_featured";i:0;}
-  _thumbnail_id: '768'
+author: Rafael Miranda
+layout: post
+title: "O Que Me Move: Ser Excelente!"
+date: 2013-05-31 16:30
+comments: true
+categories:
+  - Rafael Miranda
+  - Aprendizado
+  - Empreendedorismo
+  - Estilo de Vida
+  - Feedback
+  - Inspiração
+  - Motivação
 ---
+
 Recentemente, na empresa em que trabalho durante o dia, algumas pessoas me falaram que ficam constrangidas por eu estudar tanto e elas não. Falaram que admiram minha paixão por estudar métodos ágeis, administração moderna, coaching, técnicas modernas de engenharia de software, empreendedorismo, lean startup, etc. Elas reconheceram a importância de se atualizar continuamente, ampliar os horizontes e buscar a excelência no que fazem. Porém, confessaram não conseguir fazer isso. E estavam constrangidas por isso.
 
 <!--more-->

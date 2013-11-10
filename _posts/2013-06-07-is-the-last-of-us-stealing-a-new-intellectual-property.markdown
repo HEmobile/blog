@@ -2,7 +2,7 @@
 published: true
 author: Raphael Ozawa
 layout: post
-title: Is The Last Of Us Stealing A New IP?
+title: "Is The Last Of Us Stealing A New IP?"
 date: 2013-06-07 16:30
 comments: true
 categories:

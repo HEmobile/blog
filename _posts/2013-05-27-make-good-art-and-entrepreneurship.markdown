@@ -1,28 +1,23 @@
 ---
-layout: post
-title: Make Good Art and Entrepreneurship
-categories:
-- Blog
-tags:
-- Art
-- Entrepreneurship
-- Inspiration
-- iOS
-- Learning
-- Marketing
-- Product Development
-- Startup
-- Writing
-status: publish
-type: post
 published: true
-meta:
-  _yoast_wpseo_linkdex: '0'
-  _edit_last: '2'
-  _translations: a:2:{s:2:"br";i:726;s:2:"en";i:723;}
-  _thumbnail_id: '724'
-  _et_nimble_settings: a:1:{s:14:"et_is_featured";i:0;}
+author: Roberto Morais
+layout: post
+title: "Make Good Art and Entrepreneurship"
+date: 2013-05-27 16:30
+comments: true
+categories:
+  - Roberto Morais
+  - Art
+  - Entrepreneurship
+  - Inspiration
+  - iOS
+  - Learning
+  - Marketing
+  - Product Development
+  - Startup
+  - Writing
 ---
+
 I am huge fan of Neil Gaiman, and it is rarely the time when I hear or read something from him that I don’t like. I even wrote one of my few short movie screenplays inspired by one of his short stories. Now I am in a new adventure, and one that I wouldn’t really expect any help from him, but then... I came across his “Make Good Art” <a title="Neil Gaiman Commencement Speech" href="http://www.youtube.com/watch?v=plWexCID-kA" target="_blank">commencement speech</a>. It really inspired me, and I have a blog now, so I had to write about it.
 
 <!--more-->

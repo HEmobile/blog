@@ -1,23 +1,18 @@
 ---
-layout: post
-title: Ideias São Superestimadas
-categories:
-- Blog
-tags:
-- Aprendizado
-- Arte
-- Escrever
-- Inspiração
-status: publish
-type: post
 published: true
-meta:
-  _thumbnail_id: '709'
-  _yoast_wpseo_linkdex: '0'
-  _edit_last: '2'
-  _translations: a:2:{s:2:"br";i:712;s:2:"en";i:708;}
-  _et_nimble_settings: a:1:{s:14:"et_is_featured";i:0;}
+author: Raphael Ozawa
+layout: post
+title: "Ideias São Superestimadas"
+date: 2013-05-24 16:30
+comments: true
+categories:
+  - Raphael Ozawa
+  - Aprendizado
+  - Arte
+  - Escrever
+  - Inspiração
 ---
+
 Eu e meus companheiros tivemos tempos atrás uma reunião para decidir como deveria ser o site da Felloway: se deveria ser mais sério ou mais descontraído, focado em produtos ou na companhia, esse tipo de dúvida. No fim decidimos que ele deveria ser uma conexão entre nós e nossos parceiros, colaboradores, amigos e fãs (se algum dia tivermos fãs).
 
 <!--more-->

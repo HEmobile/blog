@@ -1,22 +1,17 @@
 ---
-layout: post
-title: A Importância das Conversas Difíceis
-categories:
-- Blog
-tags:
-- Feedback
-- Sociedade
-- Startup
-status: publish
-type: post
 published: true
-meta:
-  _translations: a:2:{s:2:"en";i:609;s:2:"br";i:605;}
-  _edit_last: '3'
-  _yoast_wpseo_linkdex: '0'
-  _et_nimble_settings: a:1:{s:14:"et_is_featured";i:0;}
-  _thumbnail_id: '613'
+author: Rafael Miranda
+layout: post
+title: "A Importância das Conversas Difíceis"
+date: 2013-05-15 16:30
+comments: true
+categories:
+  - Rafael Miranda
+  - Feedback
+  - Sociedade
+  - Startup
 ---
+
 Apesar de termos lançado o <a href="http://mixprintpaint.felloway.com/br" target="_blank">MixPrintPaint</a> há apenas alguns dias, e o marco inicial da Felloway ser Janeiro, desde Setembro/2012, nós trabalhamos na sua criação. Discutimos ideias, alinhamos expectativas e interesses, estudamos assuntos que seriam necessários conhecermos, etc. Se pensarmos bem, são 8 meses de envolvimento constante entre os três sócios. Sob alguns aspectos, já é um tempo significativo.
 
 <!--more-->

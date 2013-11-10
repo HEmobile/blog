@@ -1,30 +1,19 @@
 ---
-layout: post
-title: Estamos Vivos!
-categories:
-- Blog
-tags:
-- Aprendizado
-- Empreendedorismo
-- iOS
-- Sociedade
-- Startup
-status: publish
-type: post
 published: true
-meta:
-  _translations: a:2:{s:2:"br";i:127;s:2:"en";i:1;}
-  _edit_last: '2'
-  _yoast_wpseo_linkdex: '0'
-  _et_nimble_settings: a:1:{s:14:"et_is_featured";i:0;}
-  _yoast_wpseo_focuskw: ''
-  _yoast_wpseo_title: ''
-  _yoast_wpseo_metadesc: ''
-  _yoast_wpseo_opengraph-description: ''
-  _yoast_wpseo_google-plus-description: ''
-  _wp_old_slug: ola-mundo-1
-  _thumbnail_id: '447'
+layout: post
+title: "Estamos Vivos!"
+date: 2013-04-30 16:30
+comments: true
+categories:
+  - Felloway
+  - HEmobile
+  - Aprendizado
+  - Empreendedorismo
+  - iOS
+  - Sociedade
+  - Startup
 ---
+
 <strong>Estamos vivos! Finalmente!</strong>
 
 Há bastante tempo nós temos este sentimento, esta necessidade de começar algo nosso. Mas a vida, com todos os seus ‘problemas’, sempre nos deu todas as "falsas" desculpas necessárias para adiar esses planos.

@@ -1,23 +1,18 @@
 ---
-layout: post
-title: Ideas Are Overrated
-categories:
-- Blog
-tags:
-- Art
-- Inspiration
-- Learning
-- Writing
-status: publish
-type: post
 published: true
-meta:
-  _translations: a:2:{s:2:"br";i:712;s:2:"en";i:708;}
-  _yoast_wpseo_linkdex: '0'
-  _edit_last: '2'
-  _thumbnail_id: '709'
-  _et_nimble_settings: a:1:{s:14:"et_is_featured";i:0;}
+author: Raphael Ozawa
+layout: post
+title: "Ideas Are Overrated"
+date: 2013-05-24 16:30
+comments: true
+categories:
+  - Raphael Ozawa
+  - Art
+  - Inspiration
+  - Learning
+  - Writing
 ---
+
 Me and my fellows once have a meeting to decide what the site of Felloway should be: if it would be more serious or more lighthearted, focused on products or on the company, this kinda doubt. In the end we decided that it would be a connection between us and our partners, associates, friends and fans (if someday we have them).
 
 <!--more-->

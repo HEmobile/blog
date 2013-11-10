@@ -1,23 +1,18 @@
 ---
-layout: post
-title: A Dificuldade do Marketing para um Indie
-categories:
-- Blog
-tags:
-- Desenvolvimento de Produto
-- iOS
-- Marketing
-- Startup
-status: publish
-type: post
 published: true
-meta:
-  _thumbnail_id: '571'
-  _yoast_wpseo_linkdex: '0'
-  _edit_last: '2'
-  _translations: a:2:{s:2:"br";i:578;s:2:"en";i:574;}
-  _et_nimble_settings: a:1:{s:14:"et_is_featured";i:0;}
+author: Roberto Morais
+layout: post
+title: "A Dificuldade do Marketing para um Indie"
+date: 2013-05-13 16:30
+comments: true
+categories:
+  - Roberto Morais
+  - Desenvolvimento de Produto
+  - iOS
+  - Marketing
+  - Startup
 ---
+
 Eu acho que todos que já tentaram vender um aplicativo para iPhone ou iPad perceberam que é um pesadelo ser achado na AppStore. É bem difícil achar qualquer coisa diferente dos itens em destaque ou das grandes marcas por lá.
 
 <!--more-->

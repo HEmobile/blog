@@ -1,22 +1,17 @@
 ---
-layout: post
-title: The Value of Tough Talks
-categories:
-- Blog
-tags:
-- Feedback
-- Partnership
-- Startup
-status: publish
-type: post
 published: true
-meta:
-  _yoast_wpseo_linkdex: '0'
-  _edit_last: '3'
-  _translations: a:2:{s:2:"en";i:609;s:2:"br";i:605;}
-  _et_nimble_settings: a:1:{s:14:"et_is_featured";i:0;}
-  _thumbnail_id: '613'
+author: Rafael Miranda
+layout: post
+title: "The Value of Tough Talks"
+date: 2013-05-15 16:30
+comments: true
+categories:
+  - Rafael Miranda
+  - Feedback
+  - Partnership
+  - Startup
 ---
+
 Although we have launched <a href="http://mixprintpaint.felloway.com" target="_blank">MixPrintPaint</a> only a few days ago and Felloway were born in January, we worked in its creation since September 2012. We discussed ideas, lined up expectations and interests, studied important subjects for our projects and more. If we think about it, it has been 8 months of constant engagement between the three of us. And under some circumstances that is a significative time.
 
 <!--more-->
