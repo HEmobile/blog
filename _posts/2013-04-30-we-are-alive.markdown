@@ -36,6 +36,8 @@ meta:
 
 We had that feeling, that urge to start something of our own for a long, long time. But life, with all its ‘problems’, gave us all the ‘fake’ excuses we needed to postpone it.
 
+<!--more-->
+
 Until September last year, when we decided to stop waiting for the right time and start doing it.
 
 We discussed it for a couple months and on January it all started. Two of us quit our jobs, the other one would help with some money, his free time and knowledge. We created our cooperative home office, and after a few meetings our first project was decided.

@@ -25,6 +25,8 @@ meta:
 ---
 Eu sou um grande fã de Neil Gaiman, e raramente ouço ou leio alguma coisa dele que não me fascine. Inclusive escrevi um roteiro de curta-metragem inspirado por um de seus contos. Agora estou em uma nova aventura, uma que eu realmente não esperava qualquer ajuda dele, até que me deparei com seu <a title="Gaiman's Speech" href="http://www.youtube.com/watch?v=plWexCID-kA" target="_blank">discurso de formatura</a>, “Make Good Art”. Ele novamente me inspirou, e como tenho um blog agora, tinha que escrever sobre isso.
 
+<!--more-->
+
 É impressionante como um discurso focado no mundo da arte pode combinar perfeitamente com empreendedorismo. Quando começamos a Felloway, queríamos três coisas: Um ambiente entre amigos, "Fazer coisas que nos motiva e empolga" e "Ter uma jornada extraordinária". Dois dos nossos três desejos são praticamente citações perfeitas desse discurso. E eu acredito que é um sentimento bem parecido para todos no mundo do empreendedorismo.
 
 Para mim, na essência o discurso de Gaiman é sobre encontrar o que você quer fazer, e continuar fazendo até que você faça bem o suficiente para poder ganhar a vida com isso. Como ele disse, isso é muito mais difícil do que parece. Já é difícil o suficiente encontrar o que você quer fazer, e é ainda mais difícil continuar fazendo isso através de todas as dificuldades. Mas, concordando com ele novamente, eu também acredito que no final é mais fácil do que esperamos. Quando você está nessa jornada, você não sente que está trabalhando, mas sim, em uma aventura assustadora, com uma recompensa incrível no final. Vida. Felicidade.

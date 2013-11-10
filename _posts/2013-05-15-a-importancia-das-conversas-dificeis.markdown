@@ -19,6 +19,8 @@ meta:
 ---
 Apesar de termos lançado o <a href="http://mixprintpaint.felloway.com/br" target="_blank">MixPrintPaint</a> há apenas alguns dias, e o marco inicial da Felloway ser Janeiro, desde Setembro/2012, nós trabalhamos na sua criação. Discutimos ideias, alinhamos expectativas e interesses, estudamos assuntos que seriam necessários conhecermos, etc. Se pensarmos bem, são 8 meses de envolvimento constante entre os três sócios. Sob alguns aspectos, já é um tempo significativo.
 
+<!--more-->
+
 O dia-a-dia de uma startup é de pressão e decisões constantes. Desde elementos estratégicos de negócio, até o mais simples detalhe do produto. Sem contar, é claro, com a pressão que nós mesmos nos impomos. São muitas coisas para pensar, estudar, decidir e realizar simultaneamente. Naturalmente, em um ambiente tão instável, conflitos irão surgir.
 
 O ponto fundamental para manter tudo funcionando é o feedback constante. O time precisa estar bastante alinhado para manter o barco na direção desejada. Porém, os ventos sopram para muitos lados, tormentas eventualmente irão aparecer e o barco precisa continuar navegando. A comunicação entre todos deve ser franca, objetiva e o mais transparente possível. E isso significa ter algumas conversas difíceis.

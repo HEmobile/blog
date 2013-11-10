@@ -29,6 +29,8 @@ meta:
 
 Há bastante tempo nós temos este sentimento, esta necessidade de começar algo nosso. Mas a vida, com todos os seus ‘problemas’, sempre nos deu todas as "falsas" desculpas necessárias para adiar esses planos.
 
+<!--more-->
+
 Até setembro do ano passado, quando decidimos parar de esperar o momento certo e começar a construir nossos sonhos.
 
 Discutimos e planejamos por alguns meses e, em Janeiro, tudo começou. Dois de nós se demitiram e o outro iria ajudar com algum dinheiro, seu tempo livre e conhecimento. Criamos o nosso home office cooperativo e, após algumas reuniões, o nosso primeiro projeto foi decidido.

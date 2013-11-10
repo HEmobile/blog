@@ -22,6 +22,8 @@ meta:
 ---
 Recentemente, na empresa em que trabalho durante o dia, algumas pessoas me falaram que ficam constrangidas por eu estudar tanto e elas não. Falaram que admiram minha paixão por estudar métodos ágeis, administração moderna, coaching, técnicas modernas de engenharia de software, empreendedorismo, lean startup, etc. Elas reconheceram a importância de se atualizar continuamente, ampliar os horizontes e buscar a excelência no que fazem. Porém, confessaram não conseguir fazer isso. E estavam constrangidas por isso.
 
+<!--more-->
+
 O primeiro passo para uma mudança é reconhecer a necessidade de mudar. E o fato delas terem reconhecido isto é algo extremamente positivo. Fiquei muito feliz por ter inspirado de alguma forma este pensamento nelas.
 
 Porém, elas comentaram outra coisa que me incomodou um pouco. Disseram ter chegado à conclusão de que o motivo de tanto estudo é que eu estava me preparando para abrir minha própria empresa. Afirmaram que eu só estudava tanto porque tinha o sonho de abrir meu próprio negócio e queria usar estes conhecimento lá.

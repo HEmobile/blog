@@ -22,6 +22,8 @@ meta:
 ---
 Recently, some people on my day job told me they are embarrassed because I study so much and they don't. They said they admire my passion for studying agile, modern management, coaching, modern software engineering, entrepreneurship, lean startup, etc. They recognize the importance of continuous improvement, expand horizons and strive for excellence in what they do. However, they told me they can't do that. And were embarrassed about that.
 
+<!--more-->
+
 The first step to change, is to recognize the need for a change. And the fact that they have recognized it is something extremely positive. I was very happy to have inspired this thought somehow in them.
 
 However, they told something else that bothered me a bit. They think that the reason for so much study is that I was getting ready to open my own company. They stated that I study so much only because I dream about opening my own business and want to use this knowledge there.

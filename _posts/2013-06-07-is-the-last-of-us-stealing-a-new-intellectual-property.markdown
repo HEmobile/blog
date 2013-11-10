@@ -24,6 +24,8 @@ meta:
 ---
 Yesterday was lifted the embargo for the press to review one of the most anticipated games of the year: The Last of Us for PlayStation 3. All over the world major game sites are giving it high scores and praise. Watching the video reviews, one thought long gone in my mind—since last year trailers—returned: the staggering resemblance of the protagonist character Ellie and the actress Ellen (Page). I had to do a quick research to see if Ellen Page was in the game. Spoiler: she is not. I don't know if it was an intentional copy, a homage or pure coincidence. That's not the point. What it brings to my mind is: are appearance and mannerism Intellectual Property?
 
+<!--more-->
+
 For those who don't know Ellen's work, she is an actress in fast ascension. After a great indie start in Juno, she was a supporting actress on a big Christopher Nolan's movie and already achieved protagonist status on a Woody Allen's. In the game world she will star as protagonist this year in a big game—almost an interactive movie—of Quantic Dream playing the character of Jodie. The game is called Beyond: Two Souls.
 
 With this impressive curriculum, Ellen would perfectly fit as Ellie in The Last Of Us, and in my opinion would do a great job. I'm a fan of her work, and I don't know if she was even invited for the role, but what really bothers me is: is she (or any other famous actor) still really necessary for this kind of project in 2013 and onwards?

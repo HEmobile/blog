@@ -19,6 +19,8 @@ meta:
 ---
 After we finished to organize our office and some bureaucratic needs, Felloway completed in March its first month of productive working, I mean developing our first iPad app <a title="MixPrintPaint" href="http://mixprintpaint.felloway.com" target="_blank">MixPrintPaint</a>. We have been working hard to ship it, so we will finally feel that we are for real.
 
+<!--more-->
+
 During this time, one thing kept buzzing up in my head. I stopped counting the days until friday.
 
 If I think about it, I can’t really complaint about my previous job. I worked from 9 to 5, Monday to Friday in a nice environment. I had a great boss, lots of freedom about my holidays and my work, I was fairly paid and lived near my company. But more than often, I caught myself taking it one day at a time, and counting days until Friday or the next holiday. I think that besides all the good it was still a job by its definition, I was exchanging my time for money. (Therefore I wanted it to pass fast, to get my reward). I felt like I was living my life using the same tactics alcoholics use to stop drinking.
