@@ -20,6 +20,8 @@ meta:
 ---
 I think that everyone who tried to sell an iPhone or iPad app realized that to be found on the AppStore is a nightmare. It is really hard to find anything different than the top players or the featured items around there.
 
+<!--more-->
+
 Doing our research about marketing an iOS App, we discovered some critical points. A great icon, thoroughly chosen keywords, a descriptive caption after the app name, a  hotsite and a promo video with no more than 60 seconds.
 
 We worked hard to have them done before our release and as a small business with little to no money to spend on marketing, we struggled with the promo video. We had no camera or equipments, and honestly we also didn’t have a lot of time.

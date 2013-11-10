@@ -19,6 +19,8 @@ meta:
 ---
 Após terminarmos de montar o nosso escritório e outras necessidades burocráticas, a Felloway completou em março seu primeiro mês de trabalho real, desenvolver nosso primeiro aplicativo para iPad, <a title="MixPrintPaint" href="http://mixprintpaint.felloway.com/br/" target="_blank">MixPrintPaint</a>. Trabalhamos muito nele, para terminar e finalmente podermos sentir que existimos de verdade.
 
+<!--more-->
+
 Durante esse tempo, uma coisa não me saia da cabeça. Eu parei de contar os dias até a sexta-feira.
 
 Sendo sincero, eu não posso reclamar do meu antigo emprego. Trabalhava das 9 as 17h, de Segunda a Sexta em um bom ambiente de trabalho. Tinha um ótimo chefe, bastante liberdade em relação a minhas férias, folgas e modo de trabalhar, tinha um bom salário e morava bem perto da empresa. Mesmo assim, muitas vezes eu me pegava enfrentando um dia de cada vez, e contando os dias que faltavam até a sexta ou o próximo feriado. Acho que apesar de todas as coisas boas, ainda era um trabalho por definição, eu estava trocando meu tempo por dinheiro. Logo, eu queria que o tempo passasse rápido para ganhar minha recompensa. Eu me sentia como se estivesse vivendo minha vida usando as mesmas táticas que os alcoólatras usam para parar de beber.

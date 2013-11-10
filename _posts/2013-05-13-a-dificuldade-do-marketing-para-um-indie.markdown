@@ -20,6 +20,8 @@ meta:
 ---
 Eu acho que todos que já tentaram vender um aplicativo para iPhone ou iPad perceberam que é um pesadelo ser achado na AppStore. É bem difícil achar qualquer coisa diferente dos itens em destaque ou das grandes marcas por lá.
 
+<!--more-->
+
 Fazendo nossa pesquisa sobre o marketing de um aplicativo iOS, nós descobrimos alguns pontos críticos: Um bonito ícone, palavras chaves cuidadosamente escolhidas, uma descrição adicional após o nome do App, e um video promocional de no máximo 60 segundos.
 
 Trabalhos duro para conseguir concluir esses itens antes de nosso lançamento, mas como uma Startup com poucos recursos para gastar em marketing, tivemos dificuldades com o video promocional. Não tínhamos câmera ou equipamentos, e honestamente também não tínhamos tempo.

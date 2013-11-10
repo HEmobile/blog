@@ -20,6 +20,8 @@ meta:
 ---
 Eu e meus companheiros tivemos tempos atrás uma reunião para decidir como deveria ser o site da Felloway: se deveria ser mais sério ou mais descontraído, focado em produtos ou na companhia, esse tipo de dúvida. No fim decidimos que ele deveria ser uma conexão entre nós e nossos parceiros, colaboradores, amigos e fãs (se algum dia tivermos fãs).
 
+<!--more-->
+
 Uma das primeiras coisas que decidimos foi colocar um blog no site e nós três concordamos em escrever nele regularmente. Não que isso fosse se tornar uma obrigação, mas sim um hábito. Escrever alguma coisa, escrever qualquer coisa. Sem regras ou obrigações. Uma palavra ou duas mil.
 
 Então agora estou eu aqui com esta página virtual vazia em minha frente e com um traçinho piscando esperando que eu comece a teclar. Mas não consigo. Não sei por onde começar.

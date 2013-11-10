@@ -20,6 +20,8 @@ meta:
 ---
 Me and my fellows once have a meeting to decide what the site of Felloway should be: if it would be more serious or more lighthearted, focused on products or on the company, this kinda doubt. In the end we decided that it would be a connection between us and our partners, associates, friends and fans (if someday we have them).
 
+<!--more-->
+
 One of the first things we decided was to put a blog on the site and we three agreed to write on it regularly. Not that it would become an obligation, but more of a habit. Write something, write anything. No rules, no strings attached. One word or two thousand.
 
 So now I’m here with this virtual blank page in front of me and a tall blinking thingy waiting for me to start typing. But I can’t. I don’t know how to start.

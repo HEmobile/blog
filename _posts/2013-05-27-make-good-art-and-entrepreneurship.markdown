@@ -25,6 +25,8 @@ meta:
 ---
 I am huge fan of Neil Gaiman, and it is rarely the time when I hear or read something from him that I don’t like. I even wrote one of my few short movie screenplays inspired by one of his short stories. Now I am in a new adventure, and one that I wouldn’t really expect any help from him, but then... I came across his “Make Good Art” <a title="Neil Gaiman Commencement Speech" href="http://www.youtube.com/watch?v=plWexCID-kA" target="_blank">commencement speech</a>. It really inspired me, and I have a blog now, so I had to write about it.
 
+<!--more-->
+
 It is impressive how an art focused speech can match so perfectly with entrepreneurship. When we started Felloway, we wanted three things: Be among friends, “Do things that we were excited about” and “Have a remarkable ride”. Two of our three wishes are near perfect quotes from his speech. And I believe it is nearly the same for everyone in the entrepreneurship world.
 
 For me, the core of Gaiman speech is about finding what you want to do, and keep doing it until you do it well enough to make a living from it. Like he said, that is much harder than it sound, it is already hard enough to find what you want to make, and it is even harder to keep doing it through all adversities. Agreeing with him again I also believe that in the end it is easier than what we expect. When you are in this journey, you don’t feel like you are working, it feels like a scary adventure with an amazing reward at the end. Life itself. Happiness.

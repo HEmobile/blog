@@ -19,6 +19,8 @@ meta:
 ---
 Although we have launched <a href="http://mixprintpaint.felloway.com" target="_blank">MixPrintPaint</a> only a few days ago and Felloway were born in January, we worked in its creation since September 2012. We discussed ideas, lined up expectations and interests, studied important subjects for our projects and more. If we think about it, it has been 8 months of constant engagement between the three of us. And under some circumstances that is a significative time.
 
+<!--more-->
+
 There are a lot of pressure and decisions to be made in the day-by-day of a startup. Varying from the strategic business elements to the simplest detail of a product. And that is without the pressure we put on ourselves. It is a lot of stuff to think, study, learn, decide and perform at the same time. Naturally, in so unstable environment some conflicts are going to arise.
 
 The fundamental point to keep everything working smoothly is the constant feedback. The team needs to be closely aligned to keep the boat in the desired direction. However, the winds blow to many sides, storms will eventually appear and the boat needs to stay in route. Communication between all should be as frank, objective and transparent as possible. And that means having some tough talks.
