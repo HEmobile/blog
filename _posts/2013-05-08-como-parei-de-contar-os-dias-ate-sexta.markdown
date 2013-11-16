@@ -12,7 +12,7 @@ categories:
   - Startup
 ---
 
-Após terminarmos de montar o nosso escritório e outras necessidades burocráticas, a Felloway completou em março seu primeiro mês de trabalho real, desenvolver nosso primeiro aplicativo para iPad, <a title="MixPrintPaint" href="http://mixprintpaint.felloway.com/br/" target="_blank">MixPrintPaint</a>. Trabalhamos muito nele, para terminar e finalmente podermos sentir que existimos de verdade.
+Após terminarmos de montar o nosso escritório e outras necessidades burocráticas, a Felloway completou em março seu primeiro mês de trabalho real, desenvolver nosso primeiro aplicativo para iPad, [MixPrintPaint](http://mixprintpaint.felloway.com/br "Site do MixPrintPaint"). Trabalhamos muito nele, para terminar e finalmente podermos sentir que existimos de verdade.
 
 <!--more-->
 
@@ -26,4 +26,4 @@ Estamos em Maio agora, se passaram três meses em que aproveitei meu trabalho e 
 
 Realmente espero poder continuar vivendo assim. Não é fácil de modo algum, mas como li em algum lugar “Se algo não te bota medo, provavelmente não vale a pena fazê-lo”.
 
-<strong>O que você acha? Você está aproveitando o seu trabalho ou simplesmente vendendo ele? Você mudaria?</strong>
+**O que você acha? Você está aproveitando o seu trabalho ou simplesmente vendendo ele? Você mudaria?**

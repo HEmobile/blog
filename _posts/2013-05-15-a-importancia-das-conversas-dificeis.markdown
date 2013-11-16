@@ -12,7 +12,7 @@ categories:
   - Startup
 ---
 
-Apesar de termos lançado o <a href="http://mixprintpaint.felloway.com/br" target="_blank">MixPrintPaint</a> há apenas alguns dias, e o marco inicial da Felloway ser Janeiro, desde Setembro/2012, nós trabalhamos na sua criação. Discutimos ideias, alinhamos expectativas e interesses, estudamos assuntos que seriam necessários conhecermos, etc. Se pensarmos bem, são 8 meses de envolvimento constante entre os três sócios. Sob alguns aspectos, já é um tempo significativo.
+Apesar de termos lançado o [MixPrintPaint](http://mixprintpaint.felloway.com/br "Site do MixPrintPaint") há apenas alguns dias, e o marco inicial da Felloway ser Janeiro, desde Setembro/2012, nós trabalhamos na sua criação. Discutimos ideias, alinhamos expectativas e interesses, estudamos assuntos que seriam necessários conhecermos, etc. Se pensarmos bem, são 8 meses de envolvimento constante entre os três sócios. Sob alguns aspectos, já é um tempo significativo.
 
 <!--more-->
 
@@ -28,7 +28,4 @@ O nome da nossa empresa leva consigo o termo "Amizade". Quisemos deixar claro pa
 
 Tenho muito orgulho de trabalhar com estes caras. Muito orgulho mesmo! :)
 
-&nbsp;
-
-E você? Também tem tido conversas difíceis? ;)
-<p style="text-align: right;"><em>Crédito da foto: <a href="http://www.flickr.com/photos/cindy47452/3197110057/" target="_blank">Cindy Cornett Seigle</a> - Best Buds Forever</em></p>
+**E você? Também tem tido conversas difíceis? ;)**
