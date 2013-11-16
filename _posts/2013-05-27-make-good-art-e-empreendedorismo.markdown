@@ -18,7 +18,7 @@ categories:
   - Startup
 ---
 
-Eu sou um grande fã de Neil Gaiman, e raramente ouço ou leio alguma coisa dele que não me fascine. Inclusive escrevi um roteiro de curta-metragem inspirado por um de seus contos. Agora estou em uma nova aventura, uma que eu realmente não esperava qualquer ajuda dele, até que me deparei com seu <a title="Gaiman's Speech" href="http://www.youtube.com/watch?v=plWexCID-kA" target="_blank">discurso de formatura</a>, “Make Good Art”. Ele novamente me inspirou, e como tenho um blog agora, tinha que escrever sobre isso.
+Eu sou um grande fã de Neil Gaiman, e raramente ouço ou leio alguma coisa dele que não me fascine. Inclusive escrevi um roteiro de curta-metragem inspirado por um de seus contos. Agora estou em uma nova aventura, uma que eu realmente não esperava qualquer ajuda dele, até que me deparei com seu [discurso de formatura](http://www.youtube.com/watch?v=plWexCID-kA "Discurso de Gaiman"), “Make Good Art”. Ele novamente me inspirou, e como tenho um blog agora, tinha que escrever sobre isso.
 
 <!--more-->
 
@@ -28,7 +28,7 @@ Para mim, na essência o discurso de Gaiman é sobre encontrar o que você quer 
 
 Nós ainda precisamos comer e pagar nossas contas, mas planejar bem, fazer sacrifícios, e até mesmo ter alguns pequenos desvios no caminho vai nos ajudar a continuar caminhando para esta distante montanha. Basta manter sempre o seu objetivo no horizonte e eu acredito que você não vai se perder.
 
-Nós já escolhemos o nosso caminho, agora estamos criando aplicativos iOS para chegar à montanha. Duas semanas atrás, nós lançamos nosso primeiro aplicativo para iPad, <a title="MixPrintPaint hot site" href="http://mixprintpaint.felloway.com" target="_blank">MixPrintPaint</a>, uma ferramenta criativa para as crianças construírem seus próprios livros de colorir. Estamos trabalhando no marketing desde então, e meu sentimento no momento é praticamente "como o de colocar varias mensagens em garrafas, em uma ilha deserta, na esperança de que alguém vai encontrar uma delas e abri-la" Nós ainda não sabemos o que as pessoas pensam sobre o nosso produto, pois as garrafas estão perdidas por aí, mas vamos continuar trabalhando até alguém encontrá-las.
+Nós já escolhemos o nosso caminho, agora estamos criando aplicativos iOS para chegar à montanha. Duas semanas atrás, nós lançamos nosso primeiro aplicativo para iPad, [MixPrintPaint](http://mixprintpaint.felloway.com/br "Site do MixPrintPaint"), uma ferramenta criativa para as crianças construírem seus próprios livros de colorir. Estamos trabalhando no marketing desde então, e meu sentimento no momento é praticamente "como o de colocar varias mensagens em garrafas, em uma ilha deserta, na esperança de que alguém vai encontrar uma delas e abri-la" Nós ainda não sabemos o que as pessoas pensam sobre o nosso produto, pois as garrafas estão perdidas por aí, mas vamos continuar trabalhando até alguém encontrá-las.
 
 Empreendedorismo, como arte, é sobre cometer erros e continuar trabalhando até que você consiga fazer a coisa certa. Nós não sabíamos o melhor momento para lançar o nosso produto, então decidimos lançá-lo e nos concentrar no marketing depois. E agora descobrimos que alguns sites de avaliação dão prioridade à pré-lançamentos, e que leva algum tempo para ter o seu vídeo promocional aprovado pela Apple. Erros grandes. Muitos mais virão e vamos continuar aprendendo coisas depois do momento ideal, mas estamos trabalhando, estamos indo em direção à montanha e estamos aprendendo as regras enquanto andamos ... porque senão teríamos que parar para aprendê-las. Achamos que é melhor cometer esses erros, mesmo grandes. Isso significa que estamos lá fora fazendo alguma coisa.
 
@@ -38,5 +38,4 @@ Agora, vá. Encontre o seu lugar, faça o seu melhor, melhore o seu melhor, come
 
 Faça bons produtos. Faça um bom trabalho. Faça boa arte! É tudo o que podemos fazer.
 
-O discurso Gaiman inspirou você também? Eu adoraria ouvir sobre isso.
-<p style="text-align: right;"> <em>Crédito da Foto: <a title="Fotologic" href="http://www.flickr.com/photos/fotologic/410355440/" target="_blank">Fotologic</a> - Go on creating</em></p>
+**O discurso Gaiman inspirou você também? Eu adoraria ouvir sobre isso.**
