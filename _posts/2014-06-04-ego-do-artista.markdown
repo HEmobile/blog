@@ -20,9 +20,7 @@ Desde que eu entrei na faculdade escuto falar sobre o “ego-de-artista”, conh
 
 ![Imagem 1](/blog/images/posts/2014-06-04/foto-camisas-romero-brito.jpg "Imagem - design da depressão")
 
-Mesmo que não queira, qualquer projeto em que você estiver envolvido terá sua marca. Seja na forma que combina as cores, no tipo de grid que usa ou no traço de sua ilustração. O fato é que você não precisa ficar provando que você esteve no projeto, isso será natural. 
-
-Mesmo que não queira, qualquer projeto em que você estiver envolvido terá sua marca. Seja na forma que combina as cores, no tipo de grid que usa ou no traço de sua ilustração. O fato é que você não precisa ficar provando que você esteve no projeto, isso será natural. 
+Mesmo que você não queira, qualquer projeto em que você estiver envolvido terá sua marca. Seja na forma que combina as cores, no tipo de grid que usa ou no traço de sua ilustração. O fato é que você não precisa ficar provando que você esteve no projeto, isso será natural. 
 
 ## 2 - Ele odeia tudo o que vê
 
@@ -44,6 +42,6 @@ Um dos grandes problemas dessa lógica não é querer fazer coisas belas, é ach
 
 ## PS: Se não tomar cuidado, esse idiota pode ser você
 
-Eu seique você estudou por anos, veio ao longo desse tempo acumulando experiência e que por isso é um super designer. É possível também que você seja uma pessoa equilibrada, que sabe escutar “não” e que eventualmente seu cliente seja uma pessoa que pede frequentes mudanças completamente descabidas, o que é um problema que pode te tirar do sério. A dica para isso é: Relaxe e continue trabalhando. Resolver problemas é seu trabalho. 
+Eu sei que você estudou por anos, veio ao longo desse tempo acumulando experiência e que por isso é um super designer. É possível também que você seja uma pessoa equilibrada, que sabe escutar “não” e que eventualmente seu cliente seja uma pessoa que pede frequentes mudanças completamente descabidas, o que é um problema que pode te tirar do sério. A dica para isso é: Relaxe e continue trabalhando. Resolver problemas é seu trabalho. 
 
 
