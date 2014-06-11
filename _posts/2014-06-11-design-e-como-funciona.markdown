@@ -14,9 +14,9 @@ categories:
 Steve Jobs disse em 2003 para o New York Times
 > "As pessoas pensam que é esse verniz… que são entregues aos designers esta caixa e lhes é dito: 'Torne-a bonita!' Não é isto que achamos que é design. Não é apenas a aparência e a sensação. Design é como funciona."
 
-<!--more-->
-
 Nas mais diversas áreas, mas também no mundo dos apps para dispositivos móveis, muitos acham que o designer é o profissional encarregado em deixar o app bonito. É ele quem vai escolher as cores, as fontes de texto, o layout.
+
+<!--more-->
 
 Sim, tudo isto é verdade. Mas o trabalho dele não acaba aí. Às vezes, surpreendentemente, pode nem chegar até aí.
 
