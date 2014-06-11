@@ -4,25 +4,25 @@ layout: nil
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
-  <title>www.helabs.com.br/blog</title>
-  <link href="http://helabs.com.br/blog/"/>
-  <link type="application/atom+xml" rel="self" href="http://helabs.com.br/blog/atom.xml"/>
+  <title>www.hemobile.com.br/blog</title>
+  <link href="http://hemobile.com.br/blog/"/>
+  <link type="application/atom+xml" rel="self" href="http://hemobile.com.br/blog/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://helabs.com.br/blog/</id>
+  <id>http://hemobile.com.br/blog/</id>
   <author>
-    <name>Time HE:labs</name>
-    <email>time@hehabs.com.br</email>
+    <name>Time HE:mobile</name>
+    <email>contato@hemobile.com.br</email>
   </author>
 
   {% for post in site.posts %}
   <entry>
-    <id>http://helabs.com.br/blog{{ post.id }}</id>
+    <id>http://hemobile.com.br/blog{{ post.id }}</id>
     <link type="text/html" rel="alternate" href="http://helabs.com.br/blog{{ post.url }}"/>
     <title>{{ post.title | xml_escape }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
       <name>{{ post.author }}</name>
-      <uri>http://helabs.com.br/nosso-time/</uri>
+      <uri>http://hemobile.com.br/nosso-time/</uri>
     </author>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
