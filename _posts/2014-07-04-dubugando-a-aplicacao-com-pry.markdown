@@ -2,24 +2,25 @@
 published: true
 author: Vinicius Torves
 layout: post
-title: "Debugando Aplicação com Pry"
-date: 2013-07-04 16:30
+title: "Debugando a aplicação com Pry"
+date: 2014-07-04 16:30
 comments: true
 categories:
   - Vinicius Torves
   - ruby
   - rails
-  - Startup
+  - debug
+  - pry
+  - gem
 ---
-
-
-<!--more-->
-
 Uma das perguntas mais comum é:
  "O que devo saber para começar com rails?"
  Rails é um framework escrito com Ruby e possui uma sintaxe bastante amigável,
   e com ela fazemos [MÁGICAS](http://hemobile.com.br/magica/)
 . =)
+
+<!--more-->
+
 Para trabalharmos com ele e sermos bastante produtivos, buscamos explorar o
  melhor dele,  e com essa evolução surgiram varias [gems](http://en.wikipedia.org/wiki/RubyGems) que nos auxiliam
  diariamente a escrever [melhor o código](https://github.com/bbatsov/rubocop), nos [mostra erros](https://github.com/charliesome/better_errors),
