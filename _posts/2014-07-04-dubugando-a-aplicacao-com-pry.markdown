@@ -30,7 +30,7 @@ Para trabalharmos com ele e sermos bastante produtivos, buscamos explorar o
 Mas como podemos debugar rapidamente?
 Vou falar aqui um pouco sobre uma gem bastante utilizada pela comunidade para debug código ruby: o PRY, você pode substituir o irb padrão, por ele e ser mais feliz, com seus diversos recursos.
 
-#Primeiros passos, vamos explorar o brackpoint:
+## Primeiros passos, vamos explorar o brackpoint:
 Após [instalado](https://github.com/pry/pry#use-pry-as-your-rails-console) no seu
 rails insira o texto: **'binding.pry' ** onde você desejar dentro do seu código para poder parar a execução do código e start o servidor.
 
