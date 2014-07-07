@@ -13,7 +13,7 @@ categories:
   - pry
   - gem
 ---
-Uma das perguntas mais comum é:
+Uma das perguntas mais comuns é:
  "O que devo saber para começar com rails?"
  Rails é um framework escrito com Ruby e possui uma sintaxe bastante amigável,
   e com ela fazemos [MÁGICAS](http://hemobile.com.br/magica/)
