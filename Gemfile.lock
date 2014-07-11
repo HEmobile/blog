@@ -2,11 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     RedCloth (4.2.9)
-<<<<<<< HEAD
     activesupport (4.1.4)
-=======
-    activesupport (4.1.2)
->>>>>>> Post Xcode Templates Parte 1
       i18n (~> 0.6, >= 0.6.9)
       json (~> 1.7, >= 1.7.7)
       minitest (~> 5.1)
@@ -88,13 +84,8 @@ GEM
     maruku (0.7.0)
     mercenary (0.3.4)
     mini_portile (0.6.0)
-<<<<<<< HEAD
     minitest (5.4.0)
     nokogiri (1.6.3.1)
-=======
-    minitest (5.3.5)
-    nokogiri (1.6.2.1)
->>>>>>> Post Empreendedor e Produto dos Sonhos
       mini_portile (= 0.6.0)
     parslet (1.5.0)
       blankslate (~> 2.0)
@@ -104,11 +95,6 @@ GEM
       yajl-ruby (~> 1.1.0)
     rb-fsevent (0.9.4)
     rb-inotify (0.9.5)
-<<<<<<< HEAD
-=======
-      ffi (>= 0.5.0)
-    rb-kqueue (0.2.3)
->>>>>>> Post Empreendedor e Produto dos Sonhos
       ffi (>= 0.5.0)
     rdiscount (2.1.7)
     redcarpet (3.1.2)
