@@ -2,7 +2,7 @@
 published: true
 author: Vinicius Torves
 layout: post
-title: "Debugando a aplicação com Pry"
+title: "Debugando a Aplicação com Pry"
 date: 2014-07-04 16:30
 comments: true
 categories:
