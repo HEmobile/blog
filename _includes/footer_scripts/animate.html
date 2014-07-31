@@ -1,0 +1,15 @@
+<script charset="utf-8" src="/blog/javascripts/shake.js"></script>
+
+<script charset="utf-8">
+
+  window.addEventListener('shake', shakeEventDidOccur, false);
+
+  function shakeEventDidOccur(){
+
+    $('#logo').addClass('animated swing');
+    $('#logo').on('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
+      $('#logo').removeClass('animated swing');
+    });
+  }
+
+</script>
