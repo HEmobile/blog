@@ -14,11 +14,11 @@ layout: nil
     <email>contato@hemobile.com.br</email>
   </author>
 
-  <icon>http://helabs.com.br/images/logo_sq.jpg</icon>
+  <icon>http://hemobile.com.br/images/logo_sq.jpg</icon>
   {% for post in site.posts %}
   <entry>
     <id>http://hemobile.com.br/blog{{ post.id }}</id>
-    <link type="text/html" rel="alternate" href="http://helabs.com.br/blog{{ post.url }}"/>
+    <link type="text/html" rel="alternate" href="http://hemobile.com.br/blog{{ post.url }}"/>
     <title>{{ post.title | xml_escape }}</title>
     <summary>{{ post.excerpt | strip_html | strip_newlines | condense_spaces | xml_escape }}</summary>
     <updated>{{ post.date | date_to_xmlschema }}</updated>

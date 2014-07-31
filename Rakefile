@@ -36,7 +36,7 @@ task :fix_author_links do
   require 'json'
   require 'jekyll'
 
-  team = JSON.parse(open('http://helabs.com.br/team.json').read)['team']
+  team = JSON.parse(open('http://hemobile.com.br/team.json').read)['team']
   team_names = team.map { |member| member['full_name'] }
 
   config = Jekyll.configuration({})
