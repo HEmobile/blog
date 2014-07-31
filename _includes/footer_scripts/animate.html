@@ -6,9 +6,14 @@
 
   function shakeEventDidOccur(){
 
-    $('#logo').addClass('animated swing');
-    $('#logo').on('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
-      $('#logo').removeClass('animated swing');
+    var animations = ['wobble', 'swing', 'bounce', 'shake', 'tada'];
+    var index = Math.floor((Math.random() * animations.length))
+    var animation = animations[index] + ' animated';
+    var targets = 'h1, p, li, #logo, .post-excerpt';
+
+    $(targets).addClass(animation);
+    $(targets).on('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
+      $(targets).removeClass(animation);
     });
   }
 
