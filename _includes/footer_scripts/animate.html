@@ -9,7 +9,7 @@
     var animations = ['wobble', 'swing', 'bounce', 'shake', 'tada'];
     var index = Math.floor((Math.random() * animations.length))
     var animation = animations[index] + ' animated';
-    var targets = 'h1, p, li, #logo, .post-excerpt';
+    var targets = 'h1, h2, p, li, #logo, .post-excerpt, .author-info, .tags, #post-sharing';
 
     $(targets).addClass(animation);
     $(targets).on('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
