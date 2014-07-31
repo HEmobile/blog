@@ -12,58 +12,78 @@ title: HE:mobile
   {% for post in paginator.posts %}
 
   <article class="post">
-    <div class="container">
-
+    <div class="flex-box">
       <header class="post-header">
-        {% if post.author %}
-          {% assign author = post.author %}
-        {% elsif page.author %}
-          {% assign author = page.author %}
-        {% else %}
-          {% assign author = site.author %}
-        {% endif %}
-        {% if author %}
-          <div class="author-info">
-            Postado por <span>{{ author }}</span> em <span>{{ post.date | date: "%d/%m/%Y" }}</span>
-          </div>
-        {% endif %}
         <h1 class="post-title">
           <a href="/blog{{ post.url }}" title="{{post.title}}">
             {% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}
           </a>
         </h1>
+        {% if post.author %}
+          {% assign author = post.author %}
+          {% assign hide_author_link = post.hide_author_link %}
+        {% elsif page.author %}
+          {% assign author = page.author %}
+          {% assign hide_author_link = page.hide_author_link %}
+        {% else %}
+          {% assign author = site.author %}
+          {% assign hide_author_link = true %}
+        {% endif %}
+        {% if author %}
+          <div class="author-info">
+            <p>
+              Postado por
+              {% if hide_author_link == true %}
+                <span>{{ author }}</span>
+              {% else %}
+                <span><a class="author-link">{{ author }}</a></span>
+              {% endif %}
+              em <span>{{ post.date | date: "%d/%m/%Y" }}</span>
+            </p>
+          </div>
+        {% endif %}
       </header>
 
       <div class="post-excerpt">
-        {{ post.excerpt }}
+        {% if post == site.posts.first %}
+          {{ post.excerpt | strip_html | truncate: 210 }}
+        {% else %}
+          {{ post.excerpt | strip_html | truncate: 150 }}
+        {% endif %}
       </div>
-
+      <div class="tags2">
+        {% for category in post.categories %}
+          <a href="/blog/tags/#{{category}}">{{category}}</a>
+        {% endfor %}
+      </div>
       <ul>
         <li class="view-more">
-          <a href="/blog{{ post.url }}" title="Ler post inteiro">Ler mais</a>
-        </li>
-        <li>
-          {% if post.comments != false %}
-            <a href="/blog{{ post.url }}#disqus_thread" title="Comentários">Comentários</a>
-          {% endif %}
+          <a href="/blog{{ post.url }}" title="Ler post inteiro">Ler mais...</a>
         </li>
       </ul>
+
 
     </div>
   </article>
 
-{% endfor %}
+  {% endfor %}
 
-<div id="pagination">
-  <div class="container">
-    {% if paginator.next_page %}
-      <a class="prev-page" href="/blog{{paginator.next_page_path}}" title="Página Anterior">&larr; Mais Antigo</a>
-    {% endif %}
-    <a href="/blog/archives" title="Histórico do Blog">Histórico do Blog</a>
-    {% if paginator.previous_page %}
-    <a class="next-page" href="/blog{{paginator.previous_page_path}}" title="Próxima página">Mais Novo &rarr;</a>
-    {% endif %}
+  <div id="pagination">
+      <div class="container">
+
+        {% if paginator.next_page %}
+          <a class="prev-page" href="/blog/page/{{ paginator.next_page }}" title="Página Anterior">&larr; Mais Antigo</a>
+        {% endif %}
+
+        {% if paginator.previous_page %}
+          {% if paginator.previous_page == 1 %}
+            <a class="next-page" href="/blog/" title="Página Seguinte">Mais recente &rarr;</a>
+          {% else %}
+            <a class="next-page" href="/blog/page/{{ paginator.previous_page }}" title="Página Seguinte">Mais recente &rarr;</a>
+          {% endif %}
+        {% endif %}
+
+      </div>
   </div>
-</div>
 
 </section> <!-- /posts-list -->

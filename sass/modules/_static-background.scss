@@ -1,0 +1,38 @@
+#static-background {
+  background: url("/blog/images/static-bg.png") top center no-repeat fixed;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  webkit-background-size: cover;
+  background-size: cover;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  z-index: 3;
+
+  #static-image {
+    display: block;
+    padding: 20px 0;
+    width: 960px;
+
+    &:after {
+      content: " ";
+      background: rgba(138, 100, 100, 0.3);
+      width: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 5;
+    }
+  }
+
+  &.static-background-small {
+    height: 180px;
+
+    #static-image {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+    }
+  }
+}

@@ -1,0 +1,16 @@
+%post-header {
+  .post-title {
+    color: #b72124;
+    display: block;
+    font-size: em(20px);
+    margin-bottom: 5px;
+    a { text-decoration: none; }
+  }
+
+  .author-info {
+    display: inline-block;
+    font-size: em(12px);
+    margin-bottom: 10px;
+    span { font-weight: bold; }
+  }
+}

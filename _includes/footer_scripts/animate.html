@@ -1,0 +1,20 @@
+<script charset="utf-8" src="/blog/javascripts/shake.js"></script>
+
+<script charset="utf-8">
+
+  window.addEventListener('shake', shakeEventDidOccur, false);
+
+  function shakeEventDidOccur(){
+
+    var animations = ['wobble', 'swing', 'bounce', 'shake', 'tada'];
+    var index = Math.floor((Math.random() * animations.length))
+    var animation = animations[index] + ' animated';
+    var targets = 'h1, p, li, #logo, .post-excerpt';
+
+    $(targets).addClass(animation);
+    $(targets).on('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
+      $(targets).removeClass(animation);
+    });
+  }
+
+</script>
