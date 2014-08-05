@@ -3,7 +3,7 @@ published: true
 author: Roberto Morais
 layout: post
 title: "Xcode Templates - Parte 2"
-date: 2014-08-05 16:30
+date: 2014-08-05 09:30
 comments: true
 categories:
   - Roberto Morais
