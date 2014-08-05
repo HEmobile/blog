@@ -3,40 +3,26 @@ layout: nil
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-<<<<<<< HEAD
- 
-  <title>www.hemobile.com.br/blog</title>
-  <link href="http://hemobile.com.br/blog/"/>
+  <title>HE:mobile - Blog</title>
+  <link rel="self" href="http://hemobile.com.br/blog/"/>
   <link type="application/atom+xml" rel="self" href="http://hemobile.com.br/blog/atom.xml"/>
-=======
-  <title>www.hemobile.com.br/blog</title>
-  <link href="http://hemobile.com.br/blog/"/>
-  <link type="application/atom+xml" rel="self" href="http://hemobile.com.br/blog/atom.xml"/>
-
->>>>>>> update-blog
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>http://hemobile.com.br/blog/</id>
   <author>
     <name>Time HE:mobile</name>
     <email>contato@hemobile.com.br</email>
+    <uri>http://hemobile.com.br/nosso-time/</uri>
   </author>
-
   <icon>http://hemobile.com.br/images/logo_sq.jpg</icon>
   {% for post in site.posts %}
   <entry>
     <id>http://hemobile.com.br/blog{{ post.id }}</id>
-<<<<<<< HEAD
-    <link type="text/html" rel="alternate" href="http://helabs.com.br/blog{{ post.url }}"/>
-=======
     <link type="text/html" rel="alternate" href="http://hemobile.com.br/blog{{ post.url }}"/>
->>>>>>> update-blog
     <title>{{ post.title | xml_escape }}</title>
     <summary>{{ post.excerpt | strip_html | strip_newlines | condense_spaces | xml_escape }}</summary>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-
     <author>
       <name>{{ post.author }}</name>
-      <uri>http://hemobile.com.br/nosso-time/</uri>
     </author>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
