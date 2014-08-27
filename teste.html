@@ -3,8 +3,21 @@
   <title>EasyFood Print Test</title>
   <script>
     function printMessage(){
-      var message = {"name":"Roberto", "lunch":"Misto"}
-      window.webkit.messageHandlers.efPrint.postMessage(message)
+      //var message = {"name":"Roberto", "lunch":"Misto"}
+      //window.webkit.messageHandlers.efPrint.postMessage(message)
+      
+        var isiPad = navigator.userAgent.match(/iPad/i) !== null;
+        if(isiPad) {
+            var message = {
+                "name": "info.student.name",
+                "date": "_DD_MM_YYYY(),
+                "balance": "_money(info.newBalance"),
+                "mealName": "$mealName",
+                "mealValue": "$mealValue"
+            };
+
+            window.webkit.messageHandlers.efPrint.postMessage(message);
+        }
     }
     
     function isiPad() {
