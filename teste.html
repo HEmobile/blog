@@ -3,6 +3,11 @@
   <title>EasyFood Print Test</title>
   <script>
     function printMessage(){
+      var message = {"name":"Roberto", "lunch":"Misto"}
+      window.webkit.messageHandlers.efPrint.postMessage(message)
+    }
+    
+    function printMessage2(){
       //var message = {"name":"Roberto", "lunch":"Misto"}
       //window.webkit.messageHandlers.efPrint.postMessage(message)
       
@@ -37,6 +42,7 @@
   <p><a href='dpp355://print?title=MyTicket&code=A321EFSD'>URL Scheme</a></p>
   <p><a href='print://params?title=MyTicket&code=A321EFSD'>WebView</a></p>
   <p><a href='javascript:printMessage();'>Print</a></p>
+  <p><a href='javascript:printMessage2();'>Print2</a></p>
   <p><a href='javascript:isiPad();'>Check user agent</a></p>
   <p><input type="text" id="isAnIPad" name="isAnIPad"/></p>
 </body>
