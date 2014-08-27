@@ -6,6 +6,17 @@
       var message = {"name":"Roberto", "lunch":"Misto"}
       window.webkit.messageHandlers.efPrint.postMessage(message)
     }
+    
+    function isiPad() {
+      var isiPad = navigator.userAgent.match(/iPad/i) != null;
+      
+      // For use within iPad developer UIWebView
+      // Thanks to Andrew Hedges!
+      var ua = navigator.userAgent;
+      var isiPad2 = /iPad/i.test(ua);
+      
+      document.getElementById('isAnIPad').value='iPad='+(isiPad?'true':'false')+'iPad2='+(isiPad2?'true':'false');
+    }
   </script>
 </head>
 <body>
@@ -13,5 +24,7 @@
   <p><a href='dpp355://print?title=MyTicket&code=A321EFSD'>URL Scheme</a></p>
   <p><a href='print://params?title=MyTicket&code=A321EFSD'>WebView</a></p>
   <p><a href='javascript:printMessage();'>Print</a></p>
+  <p><a href='javascript:isiPad();'>Check user agent</a></p>
+  <p><input type="text" id="isAnIPad" name="isAnIPad"/></p>
 </body>
 </html>
