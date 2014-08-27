@@ -1,10 +1,17 @@
 <html lang='en'>
 <head>
   <title>EasyFood Print Test</title>
+  <script>
+    function printMessage(){
+      var message = {"name":"Roberto", "lunch":"Misto"}
+      window.webkit.messageHandlers.efPrint.postMessage(message)
+    }
+  </script>
 </head>
 <body>
   <p><br/><br/>Tests:</p>
   <p><a href='dpp355://print?title=MyTicket&code=A321EFSD'>URL Scheme</a></p>
   <p><a href='print://params?title=MyTicket&code=A321EFSD'>WebView</a></p>
+  <p><a href='javascript:printMessage();'>Print</a></p>
 </body>
 </html>
